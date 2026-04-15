@@ -1,0 +1,14 @@
+--create .\Objects\LCDFunctions.lib
+.\objects\main.o
+.\objects\delay.o
+.\objects\lcd.o
+.\objects\gpio.o
+.\objects\i2c.o
+.\objects\stm32f4xx_adc.o
+.\objects\stm32f4xx_gpio.o
+.\objects\stm32f4xx_i2c.o
+.\objects\stm32f4xx_rcc.o
+.\objects\stm32f4xx_usart.o
+.\objects\timer.o
+.\objects\uart.o
+.\objects\adc.o
